@@ -1,0 +1,20 @@
+Will contine with previous example
+- OOPs I did a wrong commit. So you want to revert back
+- Check the logs or tracking info
+ 
+```bash
+git log
+```
+- Oneline option
+```bash
+git log --oneline
+```
+- You can revert to a specific point in time using a new commit
+ 
+``bash
+git revert <commit hash>
+```
+ 
+- You can directly reset by deleting all subsequent commits using
+```bash
+git reset --hard <commit-hash>
