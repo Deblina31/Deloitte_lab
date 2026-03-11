@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.sourcelink.json
+D:\deloitte lab\csharpapps\NotifyHandler\bin\Debug\net10.0\NotifyHandler.exe
+D:\deloitte lab\csharpapps\NotifyHandler\bin\Debug\net10.0\NotifyHandler.deps.json
+D:\deloitte lab\csharpapps\NotifyHandler\bin\Debug\net10.0\NotifyHandler.runtimeconfig.json
+D:\deloitte lab\csharpapps\NotifyHandler\bin\Debug\net10.0\NotifyHandler.dll
+D:\deloitte lab\csharpapps\NotifyHandler\bin\Debug\net10.0\NotifyHandler.pdb
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.dll
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\refint\NotifyHandler.dll
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.pdb
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\NotifyHandler.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\NotifyHandler\obj\Debug\net10.0\ref\NotifyHandler.dll

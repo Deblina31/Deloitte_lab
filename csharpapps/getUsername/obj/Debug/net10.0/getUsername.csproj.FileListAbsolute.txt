@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.sourcelink.json
+D:\deloitte lab\csharpapps\getUsername\bin\Debug\net10.0\getUsername.exe
+D:\deloitte lab\csharpapps\getUsername\bin\Debug\net10.0\getUsername.deps.json
+D:\deloitte lab\csharpapps\getUsername\bin\Debug\net10.0\getUsername.runtimeconfig.json
+D:\deloitte lab\csharpapps\getUsername\bin\Debug\net10.0\getUsername.dll
+D:\deloitte lab\csharpapps\getUsername\bin\Debug\net10.0\getUsername.pdb
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.dll
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\refint\getUsername.dll
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.pdb
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\getUsername.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\getUsername\obj\Debug\net10.0\ref\getUsername.dll

@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\delegate\bin\Debug\net10.0\delegate.exe
+D:\deloitte lab\csharpapps\delegate\bin\Debug\net10.0\delegate.deps.json
+D:\deloitte lab\csharpapps\delegate\bin\Debug\net10.0\delegate.runtimeconfig.json
+D:\deloitte lab\csharpapps\delegate\bin\Debug\net10.0\delegate.dll
+D:\deloitte lab\csharpapps\delegate\bin\Debug\net10.0\delegate.pdb
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.sourcelink.json
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.dll
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\refint\delegate.dll
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.pdb
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\delegate.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\delegate\obj\Debug\net10.0\ref\delegate.dll

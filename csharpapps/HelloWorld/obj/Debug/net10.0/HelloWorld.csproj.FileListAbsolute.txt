@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+D:\deloitte lab\csharpapps\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+D:\deloitte lab\csharpapps\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+D:\deloitte lab\csharpapps\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+D:\deloitte lab\csharpapps\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\Ipv4Validator\bin\Debug\net10.0\Ipv4Validator.exe
+D:\deloitte lab\csharpapps\Ipv4Validator\bin\Debug\net10.0\Ipv4Validator.deps.json
+D:\deloitte lab\csharpapps\Ipv4Validator\bin\Debug\net10.0\Ipv4Validator.runtimeconfig.json
+D:\deloitte lab\csharpapps\Ipv4Validator\bin\Debug\net10.0\Ipv4Validator.dll
+D:\deloitte lab\csharpapps\Ipv4Validator\bin\Debug\net10.0\Ipv4Validator.pdb
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.sourcelink.json
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.dll
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\refint\Ipv4Validator.dll
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.pdb
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\Ipv4Validator.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\Ipv4Validator\obj\Debug\net10.0\ref\Ipv4Validator.dll

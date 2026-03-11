@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\BankingApp\bin\Debug\net10.0\BankingApp.exe
+D:\deloitte lab\csharpapps\BankingApp\bin\Debug\net10.0\BankingApp.deps.json
+D:\deloitte lab\csharpapps\BankingApp\bin\Debug\net10.0\BankingApp.runtimeconfig.json
+D:\deloitte lab\csharpapps\BankingApp\bin\Debug\net10.0\BankingApp.dll
+D:\deloitte lab\csharpapps\BankingApp\bin\Debug\net10.0\BankingApp.pdb
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.sourcelink.json
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.dll
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\refint\BankingApp.dll
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.pdb
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\BankingApp.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\BankingApp\obj\Debug\net10.0\ref\BankingApp.dll

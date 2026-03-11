@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.sourcelink.json
+D:\deloitte lab\csharpapps\grade_calculator\bin\Debug\net10.0\grade_calculator.exe
+D:\deloitte lab\csharpapps\grade_calculator\bin\Debug\net10.0\grade_calculator.deps.json
+D:\deloitte lab\csharpapps\grade_calculator\bin\Debug\net10.0\grade_calculator.runtimeconfig.json
+D:\deloitte lab\csharpapps\grade_calculator\bin\Debug\net10.0\grade_calculator.dll
+D:\deloitte lab\csharpapps\grade_calculator\bin\Debug\net10.0\grade_calculator.pdb
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.dll
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\refint\grade_calculator.dll
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.pdb
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\grade_calculator.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\grade_calculator\obj\Debug\net10.0\ref\grade_calculator.dll
