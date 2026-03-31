@@ -1,0 +1,15 @@
+D:\deloitte lab\csharpapps\VaultManager\bin\Debug\net10.0\VaultManager.exe
+D:\deloitte lab\csharpapps\VaultManager\bin\Debug\net10.0\VaultManager.deps.json
+D:\deloitte lab\csharpapps\VaultManager\bin\Debug\net10.0\VaultManager.runtimeconfig.json
+D:\deloitte lab\csharpapps\VaultManager\bin\Debug\net10.0\VaultManager.dll
+D:\deloitte lab\csharpapps\VaultManager\bin\Debug\net10.0\VaultManager.pdb
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.AssemblyInfoInputs.cache
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.AssemblyInfo.cs
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.csproj.CoreCompileInputs.cache
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.sourcelink.json
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.dll
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\refint\VaultManager.dll
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.pdb
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\VaultManager.genruntimeconfig.cache
+D:\deloitte lab\csharpapps\VaultManager\obj\Debug\net10.0\ref\VaultManager.dll

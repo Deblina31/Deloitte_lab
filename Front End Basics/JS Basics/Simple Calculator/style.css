@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(241, 192, 255);
+    font-size: 20px;
+}
+#btn{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(176, 117, 173);
+    border: none;
+    color: white;
+    font-size: 1rem;
+}
+input, #op {
+    background-color: rgb(236, 224, 235);
+    padding: 0.5rem;
+    border: none;
+}
+input:hover, #op:hover {
+    background-color: rgb(207, 206, 206);
+}
+#btn:hover{
+    background-color: blueviolet;
+}
+input:focus{
+    border: none;
+    box-shadow: none;
+}
+label{
+    margin-bottom: 10px; ;
+}

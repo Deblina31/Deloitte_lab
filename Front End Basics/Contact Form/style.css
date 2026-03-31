@@ -1,0 +1,50 @@
+body {
+    transition: background-color 0.4s ease, color 0.4s ease;
+    font-family: Arial, sans-serif;
+}
+
+/* Default Light Theme */
+body.light {
+    background-color: #ebbaed;
+    color: #333;
+}
+
+/* Purple Dark Theme */
+body.purple {
+    background-color: #2e003e;
+    color: #f3e5f5;
+}
+
+.purple fieldset {
+    border: 2px solid #bb86fc;
+}
+
+.purple input,
+.purple select {
+    background-color: #4a0072;
+    color: white;
+    border: 1px solid #bb86fc;
+}
+
+.purple button {
+    background-color: #bb86fc;
+    color: black;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.purple button:hover {
+    background-color: #9b59ff;
+}
+
+#themeToggle {
+    padding: 8px 12px;
+    margin-top: 10px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}

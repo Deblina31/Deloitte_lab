@@ -1,0 +1,6 @@
+@KiranaApp_HostAddress = http://localhost:5140
+
+GET {{KiranaApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
